@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explanation of the Roman Catholikes belief concerning these foure points, their church, worship, justification and civill government : as it was presented to some persons of quality, for their particular satisfaction.</title>
+            <author>Franciscus a Sancta Clara, 1598-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37199</idno>
+            <idno type="STC">Wing D354</idno>
+            <idno type="STC">ESTC R41915</idno>
+            <idno type="EEBO-CITATION">19720939</idno>
+            <idno type="OCLC">ocm 19720939</idno>
+            <idno type="VID">109350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109350)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explanation of the Roman Catholikes belief concerning these foure points, their church, worship, justification and civill government : as it was presented to some persons of quality, for their particular satisfaction.</title>
+                  <author>Franciscus a Sancta Clara, 1598-1680.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Franciscus a Santa Clara (Christopher Davenport) by Wing and NUC pre-1956 imprints.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: torn, with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109350:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>An Explanation of the <hi>Roman Catholikes</hi> Belief, concerning theſe foure Points: Their <hi>Church; Worſhip; Juſtification;</hi> and <hi>civill Government.</hi>
+            </head>
+            <head type="sub">As it was preſented to ſome Perſons of Quality, for their particular ſatisfaction.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> WE believe the holy <hi>Scriptures</hi> to be of divine inſpiration and infallible Authority; and whatſoever of therein contained we firmly aſſent unto, as to the Word of God, the Author of all Truth.</p>
+            <p>But ſince in the holy Scriptures there are ſome things hard to be underſtood, <note place="margin">2 Pet. 3.16</note> which the ignorant and ſtable wreſt to their own deſtruction; we therefore profeſſe (for the ending of controverſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in our Religi<g ref="char:EOLhyphen"/>on, and ſetling of peace in our Conſciences) to ſubmit our private judgements to the Judgement of the Church, repreſented in a free Generall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> 2. We humbly believe the ſacred Myſtery of the <hi>Bleſſed Trinity,</hi> one Eternall, Almighty, and Incomprehenſi<g ref="char:EOLhyphen"/>ble God, whom only, we adore and worſhip, as alone having Soveraign Dominion over all things, to whom only, <note place="margin">1 Tim. 1.17.</note> we acknowledge as due from men and Angells, all glory, ſervice, and obedience; abhorring from our hearts, as a moſt deteſtable Sacriledge, to give our Creators honor to any creature whatſoever.</p>
+            <p>And therefore we ſolemnly proteſt, that by the prayers we addreſſe to <hi>Angells</hi> and <hi>Saints,</hi> we intend no other then humbly to ſollicite their aſſiſtance before the Throne of God, as we deſire the prayers of one ano<g ref="char:EOLhyphen"/>ther here upon earth, not that we hope any thing from them, as originall Authors thereof, but from God the Fountain of all Goodneſſe, through <hi>Ieſus Chriſt,</hi> our only Mediator and Redeemer.</p>
+            <p>Neither do we believe any divinity or vertue to be in <hi>Images,</hi> for which they ought to be worſhip't, as the <hi>Gentiles</hi> did their <hi>Idolls,</hi> but we retain them with due and decent reſpect in our Churches, as inſtruments, which we find by experience, do often aſſiſt our memories, and excite our affections.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> 3. We firmly believe, that no force of nature nor dignity of our beſt works can merit our <hi>Iuſtification,</hi> but we are juſtified freely by <hi>grace,</hi>
+               <note place="margin">Rom. 3.24.</note> through the Redemption that is in <hi>Jeſus Christ.</hi>
+            </p>
+            <p>And although we ſhould by the grace of God perſevere unto the end in a godly life and holy obedience to the Commandements; yet are our hopes of eternall glory ſtill built upon the mercy of God, and the merits of <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p>All other <hi>merits,</hi> (according to our ſenſe of that word) ſignifie no more, then Actions done by the aſſiſtance of Gods grace, to which it has pleaſed his goodneſſe to promiſe a reward; a Doctrine ſo far from being in<g ref="char:EOLhyphen"/>ſuitable to the ſenſe of the holy Scriptures, the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their principall deſign to invite and provoke us to a dili<g ref="char:EOLhyphen"/>gent obſervance of the <hi>Commandements,</hi> by promiſing heaven as the reward of our obedience, 1 <hi>Tim.</hi> 4.2. Godlineſſe is profitable to all things, having the <hi>promiſe</hi> of this life, and of that which is to come. And <hi>Rom.</hi> 2.6. God will render to every man according to his deeds, to them, who by patient confidence in well-doing, ſeek for glory, and honor, and immortality, eternall life. And again, <hi>Rom.</hi> 8.13. If you live after the fleſh you ſhall die, but if through the ſpirit you mortifie the deeds of the body, <hi>you ſhall live.</hi> And <hi>Heb.</hi> 6.10. God is not unjuſt to forget your work and labour of love which you have ſhewed for his name, &amp;c. Nothing being ſo fre<g ref="char:EOLhyphen"/>quently repeated in the Word of God, as his <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ons promiſes to recompenſe with everlaſting glory the faith and obedience of his ſervants; Nor is the county of God barely according to our works, but high and plentifull, <note place="margin">Luk. 6.38.</note> even beyond our capacities, giving <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meaſure, heaped up, preſſed down, and running over into the boſomes of all that love him.</p>
+            <p>Thus we believe the merit or rewardable <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> holy living (both which ſignifie the ſame thing with us) ariſes not from the ſelf-value even of our be <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as they are ours, but from the Grace and Bounty of God; and for our ſelves, we ſincerely profeſſe when we have done all thoſe things, which are commanded us, we are unprofitable ſervants, <note place="margin">Luk. 17.10</note> having done nothing but that which was our duty, ſo that our boaſting is not in our ſelves, but all our glorying is in <hi>Chriſt.</hi>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> 4. We firmly believe, and highly reverence <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mor all Law,</hi> being ſo ſolemnly delivered to <hi>Moſes</hi> upon the Mount, <note place="margin">Exod. 10.</note> ſo expreſſely confirmed by our Saviour in the Goſpell, and containing in it ſelf ſo perfect an Abridg<g ref="char:EOLhyphen"/>ment of our whole duty both to God and man. <note place="margin">Mat. 19.</note>
+            </p>
+            <p>Which <hi>Morall Law</hi> we believe obliges all men to proceed with faithfullneſſe and ſincerity in their <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all contracts one towards another; <note place="margin">Eccleſ. 12.13.</note> and therefore our conſtant Profeſſion is, that we are moſt ſtrictly and ab<g ref="char:EOLhyphen"/>ſolutely bound to the exact and entire performance of our promiſes, made to any perſon of what Religion ſoever; much more to the Magiſtrates and Civill Powers, under whoſe protection we live, whom <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taught by the Word of God to obey, not only for fear, but conſcience lake; and to whom we will moſt faith<g ref="char:EOLhyphen"/>fully obſerve our promiſes of duty and obedience, notwithſtanding any diſpenſation, abſolution, or other proceedings of any forraign Power or Authority whatſoever.</p>
+            <p>Wherefore we utterly deny and renounce that falſe and ſcandalous poſition, that <hi>Faith is not to be kept with Heretikes,</hi> as moſt uncharitably imputed to our practiſes, and moſt unjuſtly pinned upon our Religion.</p>
+            <closer>Theſe we ſincerely and ſolemnly profeſſe, as in the ſight of God, the ſearcher of all hearts, taking the words: plainly and ſimply, in their uſuall and familiar ſenſe, without any Equivocation or Mentall Reſer<g ref="char:EOLhyphen"/>vation whatſoever.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
